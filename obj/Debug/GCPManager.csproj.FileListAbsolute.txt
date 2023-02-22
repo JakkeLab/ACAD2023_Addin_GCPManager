@@ -1,0 +1,8 @@
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\bin\Debug\GCPManager.dll
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\bin\Debug\GCPManager.pdb
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.csproj.AssemblyReference.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.GCPPopup.resources
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.csproj.GenerateResource.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.csproj.CoreCompileInputs.cache
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.dll
+C:\Users\Jake\OneDrive\JAKK3 Lab\03_DEV\01_Project\01_Desktop\06_AutoCADAddin\02_GCPManager\GCPManager\obj\Debug\GCPManager.pdb
